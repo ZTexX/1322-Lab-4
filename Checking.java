@@ -17,9 +17,4 @@ public class Checking extends Account {
       super.withdrawal(20);
     }
   }
-
-  @Override
-  public void deposit(float amount) {
-    super.deposit(amount);
-  }
 }

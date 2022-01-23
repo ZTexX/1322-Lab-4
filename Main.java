@@ -55,6 +55,7 @@ class Main {
           break;
         case 7:
           savings.addInterest();
+          break;
         case 8:
           break;
         default:
